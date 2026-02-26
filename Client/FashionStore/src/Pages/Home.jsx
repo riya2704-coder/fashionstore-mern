@@ -10,14 +10,14 @@ export default function Home() {
       title: "Nullam quis ante",
       desc: "Donec pede justo, fringilla vel, aliquet nec, vulputate eget.",
       bgColor: "bg-[#f6f2ed]",
-      img: "https://images.unsplash.com/photo-1585386959984-a41552262c9d",
+      img: "https://plus.unsplash.com/premium_photo-1667520043080-53dcca77e2aa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww",
     },
     {
       tag: "Maecenas tempus",
       title: "Sed fringilla mauris",
       desc: "Donec pede justo, fringilla vel, aliquet nec, vulputate eget.",
       bgColor: "bg-[#eef4ed]",
-      img: "https://images.unsplash.com/photo-1616628182501-75b5bce8fd70",
+      img: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww",
     },
     {
       tag: "Aenean commodo",
