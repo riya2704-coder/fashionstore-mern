@@ -52,7 +52,7 @@ export default function Home() {
       price: "₹2,199",
       originalPrice: "₹4,399",
       tag: "50% Off",
-      img: "https://images.unsplash.com/photo-1594938298603-c8148c4b4357?w=400",
+      img: "https://media.istockphoto.com/id/1367180724/photo/stylish-young-women-in-pastel-outfits-standing-together-fashion-concept-stock-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=7RM9xUW4nB8V19NAQ3SlFnpVHyx0plwd-Btl_68McSk=",
     },
     {
       name: "Linen Co-ord Set",
